@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python Flask For Backend Development
 - 💞️ I’m looking to collaborate on Backend projects
 - 📫 How to reach me on email: authenticpaulmeyers@gmail.com
-- ⚡ Fun fact: Am a fast typer Lol
+- ⚡ Fun fact: I can code in lightmode👀
 
 <!---
 AuthenticPaulMeyers/AuthenticPaulMeyers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
