@@ -1,11 +1,14 @@
-- 👋 Hi, I’m @AuthenticPaulMeyers
-- 👀 I’m interested in Building Scalable web apps with python flask for backend
-- 🌱 I’m currently just building backend REST APIs for fun
-- 💞️ I’m looking to collaborate on Backend projects at all levels
-- 📫 How to reach me on email: authenticpaulmeyers@gmail.com
-- ⚡ Fun fact: I can code in lightmode👀
+##👋 Hi there,
+### My name is Paul Meyers and am a web developer based in Blantyre, Malawi.
 
-<!---
-AuthenticPaulMeyers/AuthenticPaulMeyers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+##Interests
+* I am interested in learning new things that involves tech and software development.
+* I enjoy learning through online platforms such as Youtube, freeCodeCamp, Edx, Coursera, and Udemy.
+
+## Work Experience
+* Looking forward to collaborate and learn from you.
+
+## Contact
+* Email: authenticpaulmeyers@gmail.com
+* Website: [authenticpaulmeyers](http://authentic.pythonanywhere.com/)
+
