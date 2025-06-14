@@ -11,6 +11,6 @@
 * Looking forward to collaborate on backend projects specifically using `Python` and `Flask` framework.
 
 ## Contact
-* Email: authenticpaulmeyers@gmail.com
+* Email: pmkundika@gmail.com
 * Website: [authenticpaulmeyers](http://authentic.pythonanywhere.com/)
 
