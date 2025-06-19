@@ -11,7 +11,7 @@
 * Looking forward to collaborate on backend projects specifically using `Python` and `Flask` framework.
   
 ## Favorite projects
-* [Bootopia REST API] (https://github.com/AuthenticPaulMeyers/Bootopia-REST-API)
+* [Bootopia REST API](https://github.com/AuthenticPaulMeyers/Bootopia-REST-API)
   
 ## Contact
 * Email: pmkundika@gmail.com
