@@ -14,6 +14,7 @@
 ## Projects
 * [Bootopia REST API](https://github.com/AuthenticPaulMeyers/Bootopia-REST-API)
 * [Biblia AI Chatbot REST API](https://github.com/AuthenticPaulMeyers/Bible-AI-Chat)
+* [Bible AI Live Demo](https://biblia-chat-lime.vercel.app/)
   
 ## Contact
 * Email: pmkundika@gmail.com
