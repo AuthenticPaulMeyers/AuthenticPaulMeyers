@@ -9,7 +9,7 @@
 * On my free time i enjoy listening to tech startup podcats on `Youtube`.
 
 ## Work Experience
-* Looking forward to collaborate on backend projects using `Python`.
+* Looking forward to collaborate and contribute on backend projects using `Python`.
   
 ## Projects
 * [Bootopia REST API](https://github.com/AuthenticPaulMeyers/Bootopia-REST-API)
