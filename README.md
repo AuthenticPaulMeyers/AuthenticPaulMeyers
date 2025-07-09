@@ -6,6 +6,7 @@
 * I like creating, breaking and maintaining backend stuff.
 * I am interested in learning new things that involves tech and software development especially backend stuff.
 * I enjoy learning through online platforms such as `Youtube`, `freeCodeCamp`, `Edx`, `Coursera`, and `Udemy`.
+* I enjoy teaching others the things i've learnt online or in person.
 * On my free time i enjoy listening to tech startup podcats on `Youtube`.
 
 ## Work Experience
