@@ -7,7 +7,7 @@
 * I am interested in learning new things that involves tech and software development especially backend stuff.
 * I enjoy learning through online platforms such as `Youtube`, `freeCodeCamp`, `Edx`, `Coursera`, and `Udemy`.
 * I enjoy teaching others online or in person.
-* On my free time i create tutorial content on my (Youtube channel)[https://youtube.com/@ilearnatoday?si=K24WPZIJiFYBD9KJ].
+* On my free time i create tutorial content on my [Youtube channel](https://youtube.com/@ilearnatoday?si=K24WPZIJiFYBD9KJ).
 
 ## Work Experience
 * Looking forward to collaborate and contribute on backend projects using `Python`.
