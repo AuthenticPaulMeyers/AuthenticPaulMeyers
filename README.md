@@ -18,6 +18,6 @@
 * [Biblia AI Live Demo](https://biblia-chat-lime.vercel.app/)
   
 ## Contact
-* Email: authenticpaulmeyers@gmail.com
+* Email: pmkundika@gmail.com
 * Website: [authenticpaulmeyers](http://authentic.pythonanywhere.com/)
 
