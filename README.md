@@ -3,7 +3,7 @@
 ### Am a backend web developer based in Blantyre, Malawi.
 
 ## Interests
-* I like creating, breaking and maintaining backend stuff.
+* I like creating, breaking and maintaining code.
 * I am interested in learning new things that involves tech and software development especially backend stuff.
 * I enjoy learning through online platforms such as `Youtube`, `freeCodeCamp`, `Edx`, `Coursera`, and `Udemy`.
 * I enjoy teaching others online or in person.
