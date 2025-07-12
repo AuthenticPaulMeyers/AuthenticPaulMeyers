@@ -17,6 +17,13 @@
 * [Biblia AI Chatbot REST API](https://github.com/AuthenticPaulMeyers/Bible-AI-Chat)
 * [Biblia AI Live Demo](https://biblia-chat-lime.vercel.app/)
   
+## Fun Fact
+* I took CS50 Courses:
+  * CS50 Introduction to Computer Science.
+  * CS50 Introduction to Computer Programming with Python.
+  * CS50 Web Development with Python and JavaScript.
+  * CS50 Introduction to Databases with SQL.
+  * CS50 Introduction to Scratch. Lol :)
 ## Contact
 * Email: pmkundika@gmail.com
 * Website: [authenticpaulmeyers](http://authentic.pythonanywhere.com/)
