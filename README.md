@@ -20,7 +20,7 @@
 ## Fun Fact
 * I took CS50 Courses:
   * CS50 Introduction to Computer Science.
-  * CS50 Introduction to Computer Programming with Python.
+  * CS50 Introduction to Programming with Python.
   * CS50 Web Development with Python and JavaScript.
   * CS50 Introduction to Databases with SQL.
   * CS50 Introduction to Scratch. Lol :)
