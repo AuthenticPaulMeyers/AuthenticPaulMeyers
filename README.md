@@ -23,7 +23,7 @@
   * CS50 Introduction to Programming with Python.
   * CS50 Web Development with Python and JavaScript.
   * CS50 Introduction to Databases with SQL.
-  * CS50 Introduction to Scratch. Lol :)
+  * CS50 Introduction to Scratch.
 ## Contact
 * Email: authenticpaulmeyers@gmail.com
 * Website: [authenticpaulmeyers](http://authentic.pythonanywhere.com/)
