@@ -1,5 +1,5 @@
 ## 👋 Hi there,
-### My name is Paul Meyers
+## My name is Paul Meyers
 ### Am a backend developer based in Blantyre, Malawi.
 
 ## Interests
