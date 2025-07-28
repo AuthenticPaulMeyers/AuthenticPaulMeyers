@@ -9,9 +9,6 @@
 * I enjoy teaching others online or in person.
 * On my free time i create tutorial content on my new [Youtube channel](https://youtube.com/@ilearnatoday?si=K24WPZIJiFYBD9KJ).
 
-## Work Experience
-* Looking forward to collaborate and contribute on backend projects using `Python`.
-  
 ## Projects
 * [Bootopia REST API](https://github.com/AuthenticPaulMeyers/Bootopia-REST-API)
 * [Biblia AI Chatbot REST API](https://github.com/AuthenticPaulMeyers/Bible-AI-Chat)
