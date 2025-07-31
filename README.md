@@ -23,5 +23,5 @@
   * CS50 Introduction to Scratch.
 ## Contact
 * Email: authenticpaulmeyers@gmail.com
-* [Portfolio](http://authentic.pythonanywhere.com/)
+* Website: [Portfolio](http://authentic.pythonanywhere.com/)
 
