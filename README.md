@@ -21,6 +21,5 @@
   * CS50 Introduction to Databases with SQL.
   * CS50 Introduction to Scratch.
 ## Contact
-* Email: authenticpaulmeyers@gmail.com
 * Website: [Portfolio](http://authentic.pythonanywhere.com/)
 
