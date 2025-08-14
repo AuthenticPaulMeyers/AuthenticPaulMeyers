@@ -13,12 +13,8 @@
 * [Biblia AI Live Demo](https://biblia-chat-lime.vercel.app/)
   
 ## Fun Fact
-* I took CS50 Courses:
-  * CS50 Introduction to Computer Science.
-  * CS50 Introduction to Programming with Python.
-  * CS50 Web Development with Python and JavaScript.
-  * CS50 Introduction to Databases with SQL.
-  * CS50 Introduction to Scratch.
+* I Took CS50
+  
 ## Contact
 * Email: authenticpaulmeyers@gmail.com
 * Website: [Portfolio](http://authentic.pythonanywhere.com/)
