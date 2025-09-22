@@ -1,5 +1,5 @@
 ## 👋 Hi there,
-## I am Paul Meyers, a web developer based in Blantyre, Malawi.
+## I am Paul Meyers, a developer based in Blantyre, Malawi.
 
 ## Interests
 * I like creating, breaking and maintaining code, especially backend code.
