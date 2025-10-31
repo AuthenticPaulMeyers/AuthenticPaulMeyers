@@ -11,7 +11,7 @@
 * [Bootopia REST API](https://github.com/AuthenticPaulMeyers/Bootopia-REST-API)
 * [Biblia AI Chatbot REST API](https://github.com/AuthenticPaulMeyers/Bible-AI-Chat)
 * [Biblia AI Live Demo](https://biblia-chat-lime.vercel.app/)
-* [Aluno.](https://github.com/AuthenticPaulMeyers/django-aluno-quiz)
+* [Aluno.](https://github.com/AuthenticPaulMeyers/django-quiz-aluno)
 ## Fun Fact
 * I Took CS50
   
