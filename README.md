@@ -12,8 +12,10 @@
 * [Biblia AI Chatbot REST API](https://github.com/AuthenticPaulMeyers/Bible-AI-Chat)
 * [Biblia AI Live Demo](https://biblia-chat-lime.vercel.app/)
 * [Aluno.](https://github.com/AuthenticPaulMeyers/django-quiz-aluno)
-## Fun Fact
-* I Took CS50
+  
+## Primary focus
+* Python
+* With Django and Flask frameworks for backend.
   
 ## Contact
 * Email: authenticpaulmeyers@gmail.com
