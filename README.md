@@ -5,7 +5,7 @@
 * I like creating, breaking and maintaining code, especially backend code.
 * I am interested in learning new things that involves software development especially in the backend.
 * I enjoy learning through online platforms such as `Youtube`, `freeCodeCamp`, `Edx`, `Coursera`, and `Udemy`.
-* I enjoy teaching others online or in person
+* I am open for further learning through collaboration and internships.
 
 ## Projects
 * [Bootopia REST API](https://github.com/AuthenticPaulMeyers/Bootopia-REST-API)
