@@ -2,7 +2,7 @@
 ## I am Paul Meyers, a developer based in Blantyre, Malawi.
 
 ## Interests
-* I like creating, breaking and maintaining code, especially backend code.
+* I like creating REST APIs.
 * I am interested in learning new things that involves software development especially in the backend.
 * I enjoy learning through online platforms such as `Youtube`, `freeCodeCamp`, `Edx`, `Coursera`, and `Udemy`.
 * I am open for further learning through collaboration and internships.
