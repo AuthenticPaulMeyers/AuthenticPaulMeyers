@@ -12,6 +12,7 @@
 * [Biblia AI Chatbot REST API](https://github.com/AuthenticPaulMeyers/Bible-AI-Chat)
 * [Biblia AI Live Demo](https://biblia-chat-lime.vercel.app/)
 * [Aluno.](https://github.com/AuthenticPaulMeyers/django-quiz-aluno)
+* [StudyGO](https://github.com/AuthenticPaulMeyers/StudyGo)
   
 ## Primary focus
 * Python
