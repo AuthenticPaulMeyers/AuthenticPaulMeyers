@@ -13,6 +13,7 @@
 * [Biblia AI Live Demo](https://biblia-chat-lime.vercel.app/)
 * [Aluno.](https://github.com/AuthenticPaulMeyers/django-quiz-aluno)
 * [StudyGO](https://github.com/AuthenticPaulMeyers/StudyGo)
+* [UFoundIt - Lost & Found](https://github.com/AuthenticPaulMeyers/Lost-and-Found-FullStack)
   
 ## Primary focus
 * Python
